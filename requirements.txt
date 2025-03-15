@@ -1,0 +1,6 @@
+openai
+pandas
+numpy
+matplotlib
+sqlalchemy
+mysql
